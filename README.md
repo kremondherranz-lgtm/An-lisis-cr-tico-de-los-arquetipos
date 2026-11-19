@@ -6,7 +6,7 @@ Estudio del mercado automotriz en La Habana: oferta formal e informal, demanda, 
 
 | Ruta | Descripción |
 |---|---|
-| `arquetipo_historia_analisis_critico_.docx` | Documento principal del análisis crítico. |
+| `arquetipo_historia_analisis_critico_.docx` | Documento principal del análisis crítico. Su contexto y análisis se resumen en [`README_arquetipo_historia_analisis_critico.md`](README_arquetipo_historia_analisis_critico.md). |
 | `data/` | Datos del estudio: `raw/` (fuentes sin procesar), `processed/` (encuesta limpia, informe, tablas y gráficas) y `journals/` (notas de trabajo). Ver `data/README.md`. |
 | `docs/` | Documentación metodológica, catálogos e informes de fuentes externas y diarios de investigación. Ver `docs/README.md`. |
 
